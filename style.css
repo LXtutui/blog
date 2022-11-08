@@ -1,0 +1,26 @@
+#contact iframe
+{
+    width: 100%;
+}
+body {
+    background:linear-gradient(rgba(40, 40, 247, 0.418) 0%, rgba(255, 166, 0, 0.596) );
+}
+.filmes_cabecalho {
+    font-size:20px;
+    padding:20px 25px;
+    border-radius:10px;
+    margin-bottom:15px;
+    width:50%
+}
+.filmes_cabecalho i{
+    float:right;
+}
+.filmes_texto {
+    color:red;
+    padding-right:50%;
+    text-align:center;
+
+}
+.filmes_texto p{
+    font-size:20px;
+}
